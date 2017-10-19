@@ -1,0 +1,11 @@
+.DS_Store
+node_modules
+.deploy
+.deploy-prod
+.coverage
+settings.coverage.json
+settings-dev.json
+settings.json
+start.sh
+settings-dev.json
+.flow-coverage
